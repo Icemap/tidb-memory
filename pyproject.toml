@@ -11,4 +11,5 @@ dependencies = [
     "python-dotenv>=1.0.0",
     "typing-extensions>=4.8.0",
     "httpx[socks]>=0.28.1",
+    "pytidb>=0.0.13",
 ]
